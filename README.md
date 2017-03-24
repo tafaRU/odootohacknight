@@ -1,5 +1,6 @@
 # odootohacknight
-guidelines for http://torino.hacknight.it/2017/03/19/odoo/
+http://torino.hacknight.it/2017/03/19/odoo/  
+See https://github.com/tafaRU/odootohacknight/wiki
 
 Credits
 =======
