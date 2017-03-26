@@ -18,4 +18,7 @@ Books
 Links
 -----
 * [Installing Odoo](https://www.odoo.com/documentation/10.0/setup/install.html)
+* [Command line interface Odoo](https://www.odoo.com/documentation/10.0/reference/cmdline.html)
+* [Building a Module](https://www.odoo.com/documentation/10.0/howtos/backend.html)
+* [Modules](https://www.odoo.com/documentation/10.0/reference/module.html)
 
