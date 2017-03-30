@@ -23,3 +23,9 @@ Links
 * [Modules](https://www.odoo.com/documentation/10.0/reference/module.html)
 * [API](https://www.odoo.com/documentation/10.0/reference/orm.html)
 
+Thanks
+======
+* [Agile Business Group](https://www.agilebg.com/)
+* [Torino hacknight](http://torino.hacknight.it/)
+* [Riccardo Magliocchetti](https://twitter.com/rmistaken)
+* [Toolbox](http://www.toolboxoffice.it/)
